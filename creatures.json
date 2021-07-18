@@ -386,6 +386,7 @@
 			"it":"Compsognato",
 			"ja":"コンプソグナトゥス",
 			"ko":"콤피",
+                        "pt-br":"Compsognato",
 			"ru":"Компсогнат",
 			"zh":"美颌龙"
 		}
@@ -441,6 +442,7 @@
 			"it":"Verme della morte",
 			"ja":"デスワーム",
 			"ko":"데스웜",
+                        "pt-br":"Verme da Morte",
 			"ru":"Червь смерти",
 			"zh":"死亡沙虫"
 		}
@@ -579,7 +581,7 @@
 			"ja":"ショートフェイスベア",
 			"ko":"다이어 베어",
 			"nl":"Oerbeer",
-			"pt-br":"Arcdotus",
+			"pt-br":"Urso-Terrível",
 			"ro":"Urs",
 			"ru":"Свирепый медведь",
 			"th":"หมีดุร้าย",
@@ -987,6 +989,7 @@
 			"it":"Ittiosauro",
 			"ja":"イクチオサウルス",
 			"ko":"이크티오사우루스",
+                        "pt-br":"Ichtiossauro",
 			"ru":"Ихтиозавр",
 			"zh":"鱼龙"
 		}
@@ -1257,6 +1260,7 @@
 			"it":"Manticora",
 			"ja":"マンティコア",
 			"ko":"만티코어",
+                        "pt-br":"Mantícora",
 			"ru":"Мантикора",
 			"zh":"狮身蝎尾兽"
 		}
@@ -1364,6 +1368,7 @@
 			"it":"Megapiteco",
 			"ja":"メガピテクス",
 			"ko":"메가피테쿠스",
+                        "pt-br":"Megapitéco",
 			"ru":"Мегапитек",
 			"zh":"大金刚"
 		}
@@ -1397,6 +1402,7 @@
 			"it":"Mesopiteco",
 			"ja":"メソピテクス",
 			"ko":"메소피테쿠스",
+                        "pt-br":"Mesopitéco",
 			"ru":"Мезопитек",
 			"zh":"中猴"
 		}
@@ -2267,7 +2273,7 @@
 			"ko":"울리 라이노",
 			"ko-OLD":"울리라이노",
 			"nl":"Wolharige Neushoorn",
-			"pt-br":"Rinoceronte-Lanudo",
+			"pt-br":"Rinoceronte-Lanoso",
 			"ru":"Шерстистый носорог",
 			"tr":"Yünlü Gergedan",
 			"zh":"披毛犀"
@@ -2310,5 +2316,5 @@
 			"ru":"Ютираннус",
 			"zh":"羽暴龙"
 		}
-	}
+	} 
 }}
